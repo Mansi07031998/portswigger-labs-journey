@@ -16,8 +16,7 @@ The original query was structured as:
 
 ```sql
 SELECT * FROM products WHERE category = 'Gifts' AND released = 1
-
-
+```
 User input was not safely handled, it was possible to modify the SQL query logic and bypass the condition that restricted results to released products only.
 
 ### How I Approached It
