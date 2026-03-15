@@ -97,3 +97,6 @@ More importantly, this lab helped me connect the payload to the backend query lo
 ## Status
 
 Solved
+
+## Screenshot
+![Lab solved evidence](../images/lab2-sqli.png)
