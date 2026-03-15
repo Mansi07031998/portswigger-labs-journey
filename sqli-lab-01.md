@@ -104,3 +104,6 @@ Most importantly, it helped me understand how the structure of the original quer
 ### Status
 
 Solved
+
+## Screenshot
+![Lab solved evidence](../images/lab1-sqli.png)
